@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY ieee_taxonomy "http://glluch.com/ieee_taxonomy#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semanticweb.org/root/ontologies/2016/1/21/untitled-ontology-34#"
+     xml:base="http://www.semanticweb.org/root/ontologies/2016/1/21/untitled-ontology-34"
+     xmlns:ieee_taxonomy="http://glluch.com/ieee_taxonomy#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/root/ontologies/2016/1/21/untitled-ontology-34"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#narrowed -->
+
+    <owl:ObjectProperty rdf:about="&ieee_taxonomy;narrowed">
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+        <owl:inverseOf rdf:resource="&ieee_taxonomy;wide"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&ieee_taxonomy;wide"/>
+                <owl:someValuesFrom rdf:resource="&ieee_taxonomy;Term"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&ieee_taxonomy;wide"/>
+                <owl:someValuesFrom rdf:resource="&ieee_taxonomy;Term"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#wide -->
+
+    <owl:ObjectProperty rdf:about="&ieee_taxonomy;wide">
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Term -->
+
+    <owl:Class rdf:about="&ieee_taxonomy;Term"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Artificial_intelligence -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Artificial_intelligence">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Artificial intelligence</rdfs:label>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Computational_and_artificial_intelligence"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Context_awareness"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Cooperative_systems"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Decision_support_systems"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Intelligent_systems"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Computational_and_artificial_intelligence -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Computational_and_artificial_intelligence">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Computational and artificial intelligence</rdfs:label>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Artificial_intelligence"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Context_awareness"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Cooperative_systems"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Decision_support_systems"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Intelligent_systems"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Context_awareness -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Context_awareness">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Context awareness</rdfs:label>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Artificial_intelligence"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Computational_and_artificial_intelligence"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Cooperative_systems -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Cooperative_systems">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Cooperative systems</rdfs:label>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Artificial_intelligence"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Computational_and_artificial_intelligence"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Decision_support_systems -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Decision_support_systems">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Decision support systems</rdfs:label>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Artificial_intelligence"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Computational_and_artificial_intelligence"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Guns -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Guns">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Guns</rdfs:label>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Military_equipment"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Test_Category"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Weapons"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Intelligent_systems -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Intelligent_systems">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Intelligent systems</rdfs:label>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Artificial_intelligence"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Computational_and_artificial_intelligence"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Military_aircraft -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Military_aircraft">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Military aircraft</rdfs:label>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Military_equipment"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Payloads"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Test_Category"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Military_equipment -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Military_equipment">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Military equipment</rdfs:label>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Guns"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Military_aircraft"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Military_satellites"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Missiles"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Nuclear_weapons"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Payloads"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Projectiles"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Test_Category"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Weapons"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Military_satellites -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Military_satellites">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Military satellites</rdfs:label>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Military_equipment"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Test_Category"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Missiles -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Missiles">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Missiles</rdfs:label>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Military_equipment"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Test_Category"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Weapons"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Nuclear_weapons -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Nuclear_weapons">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Nuclear weapons</rdfs:label>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Military_equipment"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Test_Category"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Weapons"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Payloads -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Payloads">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Payloads</rdfs:label>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Military_aircraft"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Military_equipment"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Test_Category"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Projectiles -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Projectiles">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Projectiles</rdfs:label>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Military_equipment"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Test_Category"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Weapons"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Radar -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Radar">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Radar</rdfs:label>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Test_Category"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Radar_countermeasures -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Radar_countermeasures">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Radar countermeasures</rdfs:label>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Test_1"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Test_Category"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Test_1 -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Test_1">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Test 1</rdfs:label>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Radar_countermeasures"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Test_Category"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Test_Category -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Test_Category">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Test Category</rdfs:label>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Guns"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Military_aircraft"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Military_equipment"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Military_satellites"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Missiles"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Nuclear_weapons"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Payloads"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Projectiles"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Radar"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Radar_countermeasures"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Test_1"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Weapons"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://glluch.com/ieee_taxonomy#Weapons -->
+
+    <owl:NamedIndividual rdf:about="&ieee_taxonomy;Weapons">
+        <rdf:type rdf:resource="&ieee_taxonomy;Term"/>
+        <rdfs:label xml:lang="en">
+    Weapons</rdfs:label>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Guns"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Military_equipment"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Missiles"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Nuclear_weapons"/>
+        <ieee_taxonomy:narrowed rdf:resource="&ieee_taxonomy;Projectiles"/>
+        <ieee_taxonomy:wide rdf:resource="&ieee_taxonomy;Test_Category"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
+

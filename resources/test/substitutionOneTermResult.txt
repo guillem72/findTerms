@@ -1,0 +1,1331 @@
+[B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Marketing management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Marketing management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Mediation or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Mediation and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Mediation programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Business continuity and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Business continuity, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure Systems engineering and theory before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Web services or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Web services and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Web services programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Best practices and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Best practices, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, File systems or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of File systems and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ File systems programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Middleware or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Middleware and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Middleware programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Quality management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Quality management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Software debugging or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Software debugging and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Software debugging programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Intelligent agents or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Intelligent agents and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Intelligent agents programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Software quality or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Software quality and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Software quality programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration International collaboration and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, International collaboration, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Governmental factors and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Governmental factors, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Software agents or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Software agents and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Software agents programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Organizational aspects and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Organizational aspects, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Software tools or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Software tools and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Software tools programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and Professional communication. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Communication system operations and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Communication system operations, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Business process re-engineering and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Business process re-engineering, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Content management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Content management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Application software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Application software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Application software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Contracts and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Contracts, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Project management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Project management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Operating systems or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Operating systems and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Operating systems programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Facilities management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Facilities management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, SPICE or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of SPICE and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ SPICE programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Software as a service or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Software as a service and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Software as a service programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Software systems or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Software systems and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Software systems programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Computers and information processing or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Computers and information processing and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Computers and information processing programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Storage management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Storage management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Software reusability or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Software reusability and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Software reusability programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and Information management. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Software design or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Software design and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Software design programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, MATLAB or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of MATLAB and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ MATLAB programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure System analysis and design before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, System software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of System software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ System software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Risk analysis and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Risk analysis, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates Open source hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and Open source hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new Open source hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Decision making and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Decision making, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and Information systems. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Asset management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Asset management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Program processors or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Program processors and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Program processors programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Message-oriented middleware or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Message-oriented middleware and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Message-oriented middleware programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Human resource management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Human resource management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Software performance or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Software performance and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Software performance programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Public domain software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Public domain software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Public domain software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Supply chain management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Supply chain management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and Intrusion detection. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Optical character recognition software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Optical character recognition software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Optical character recognition software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Resource management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Resource management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Customer relationship management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Customer relationship management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Utility programs or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Utility programs and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Utility programs programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates Computers and information processing, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and Computers and information processing specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new Computers and information processing components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Authoring systems or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Authoring systems and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Authoring systems programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Software safety or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Software safety and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Software safety programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure Cooperative caching before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Communication system operations and management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Communication system operations and management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Contingency management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Contingency management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Autonomous agents or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Autonomous agents and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Autonomous agents programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Software packages or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Software packages and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Software packages programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Financial management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Financial management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Knowledge management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Knowledge management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Embedded software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Embedded software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Embedded software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Software maintenance or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Software maintenance and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Software maintenance programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and Writing of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, Open source software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of Open source software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ Open source software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Enterprise resource planning and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Enterprise resource planning, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration Outsourcing and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and documentation of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, Outsourcing, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+, B.2. Component Integration.
+    Integrates hardware, software or sub system components into an existing or a new system. Complies with established processes and procedures such as, configuration management and package maintenance. Takes into account the compatibility of existing and new modules to ensure system integrity, system interoperability and information security. Verifies and tests system capacity and performance and Professional communication of successful integration.
+Proficiency Levels
+Proficiency Level 2 - Acts systematically to identify compatibility of software and hardware specifications. Documents all activities during installation and records deviations and remedial activities.
+Proficiency Level 3 - Accounts for own and others actions in the integration process. Complies with appropriate standards and change control procedures to maintain integrity of the overall system functionality and reliability.
+Proficiency Level 4 - Exploits wide ranging specialist knowledge to create a process for the entire integration cycle, including the establishment of internal standards of practice. Provides leadership to marshal and assign resources for programmes of integration.
+Knowledge Examples
+K1 old, existing and new hardware components/ software programs/ modules
+K2 the impact that system integration has on existing system/ organisation
+K3 interfacing techniques between modules, systems and components
+K4 integration testing techniques
+K5 development tools (e.g. development environment, management, source code access/revision control)
+K6 best practice design techniques
+Skills Examples
+S1 measure system performance before, during and after system integration
+S2 document and record activities, problems and related repair activities
+S3 match customers' needs with existing products
+S4 verify that integrated systems capabilities and efficiency match specifications
+S5 secure/ back-up data to ensure integrity during system integration
+]

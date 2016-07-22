@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1468501957677" name="http://glluch.com/ieee_taxonomy2/2016/3/10/untitled-ontology-39" uri="others/ieee_terms2_10042016.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468501957677" name="http://glluch.com/ieee_taxonomy2/2016/4/13/untitled-ontology-48" uri="ieee_onto2_reasoning.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1468501957677" name="http://www.semanticweb.org/root/ontologies/2016/1/20/untitled-ontology-33" uri="others/IEEE_reasoner20022016.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468501957677" name="http://www.semanticweb.org/root/ontologies/2016/1/21/untitled-ontology-34" uri="test/miniReasoner.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468501957677" name="http://www.w3.org/2002/07/owl" uri="others/TaxoCorregidaXMLRDF.owl"/>
+    </group>
+</catalog>

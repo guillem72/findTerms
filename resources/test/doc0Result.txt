@@ -1,0 +1,1 @@
+{software={1248=1256, 560=568, 53=61}, management={195=205}, documentation={429=442}, information security={352=372}, system performance={1613=1631}, hardware={1227=1235, 573=581}}
