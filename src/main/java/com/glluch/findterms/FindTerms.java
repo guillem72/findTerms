@@ -16,14 +16,18 @@
  */
 package com.glluch.findterms;
 
+import com.glluch.utils.Out;
+import com.glluch.utils.StringsThings;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Set;
 import java.util.Stack;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * Find terms in a text. 
+ * Find terms in a text.
+ *
  * @author Guillem LLuch Moll guillem72@gmail.com
  */
 public class FindTerms {
@@ -34,11 +38,12 @@ public class FindTerms {
     public static ArrayList<String> vocabulary;
 
     /**
-     *  Return all the terms from the vocabulary found in doc0. Note that return the 
-     * larger term found, so for "Management System" it returns one term, not "Management"
-     * and "System".
+     * Return all the terms from the vocabulary found in doc0. Note that return
+     * the larger term found, so for "Management System" it returns one term,
+     * not "Management" and "System".
+     *
      * @param doc0 The doc where the terms will be searched
-     * @return A list made by the found terms. 
+     * @return A list made by the found terms.
      */
     public ArrayList<String> found(String doc0) {
         //System.out.println("FindTerms.found()");
@@ -46,69 +51,70 @@ public class FindTerms {
         HashMap<String, Integer> hits = new HashMap<>();
         for (String candi0 : vocabulary) {
             String candi = candi0.toLowerCase();
-            if (Utils.stringContains(doc,candi)) {
-                
-                
-                    String[] parts=doc.split(candi);
-                 
-                    hits.put(candi,parts.length-1);
-                
+            if (Utils.stringContains(doc, candi)) {
+
+                String[] parts = doc.split(candi);
+
+                hits.put(candi, parts.length - 1);
+
             }
         }
         //System.out.println("hits=" + hits.toString());
         return removeInsideTerms(hits);
     }
 
-     /**
-     *  Return all the terms from the vocabulary found in doc0. Note that return the 
-     * larger term found, so for "Management System" it returns one term, not "Management"
-     * and "System".
+    /**
+     * Return all the terms from the vocabulary found in doc0. Note that return
+     * the larger term found, so for "Management System" it returns one term,
+     * not "Management" and "System".
+     *
      * @param doc0 The doc where the terms will be searched
-     * @return A list made by the found terms. 
+     * @return A map made by the found terms and their occurences.
      */
-    public HashMap<String,Integer> foundAndCount(String doc0) {
+    public HashMap<String, Integer> foundAndCount(String doc0) {
         //System.out.println("FindTerms.found()");
         String doc = doc0.toLowerCase();
         HashMap<String, Integer> hits = new HashMap<>();
         for (String candi0 : vocabulary) {
             String candi = candi0.toLowerCase();
-            int matches=StringUtils.countMatches(doc, candi);
-            if (matches >0) {
-                
-                    hits.put(candi,matches);
-                
+            int matches = StringUtils.countMatches(doc, candi);
+            if (matches > 0) {
+
+                hits.put(candi, matches);
+
             }
         }
         //System.out.println("hits=" + hits.toString());
-         removeInsideTerms(hits);
-         return hits;
+        removeInsideTerms(hits);
+        return hits;
     }
-    
-    
+
     /**
-     * Internal function which removes a term that is part of another term. Return 
-     * the occurences of the term, too.
+     * Internal function which removes a term that is part of another term.
+     * Return the occurences of the term, too.
+     *
      * @param f An array term-&gt; hits of the term
-     * @return a map term --&gt; num_occurences without the non proper terms deleted.
+     * @return a map term --&gt; num_occurences without the non proper terms
+     * deleted.
      */
     protected HashMap<String, Integer> removeInsideTermsAndCount(HashMap<String, Integer> f) {
-       
-        Stack pila=new Stack();
         
+        Stack pila = new Stack();
+
         Set keys = f.keySet();//all term found, term form part of other term, too
         pila.addAll(keys);
-        
-        
+        Collections.sort(pila,new StringsThings());
+        //Out.pS(pila);
         /*
-        Pick the first element and compares it with every one in the rest of the elements
-        */
-       while (!pila.empty()){ 
-       String t1=(String) pila.pop();
-                Stack rest=(Stack)pila.clone();
-                while (!rest.empty()){
-                
-                    String t2=(String)rest.pop();
-                    if (f.containsKey(t1) && f.containsKey(t2)){
+         Pick the first element and compares it with every one in the rest of the elements
+         */
+        while (!pila.empty()) {
+            String t1 = (String) pila.pop();
+            Stack rest = (Stack) pila.clone();
+            while (!rest.empty()) {
+
+                String t2 = (String) rest.pop();
+                if (f.containsKey(t1) && f.containsKey(t2)) {
                     //if one term t2 is in the other t1 and apper the same number of times,  
                     //it means than t2 is not a proper term, only is part of a larger term so
                     //it has to be removed (from f). 
@@ -116,40 +122,51 @@ public class FindTerms {
                     //occurences for the included (in a larger term) terms, for example
                     // "circuits and analog circuits" the word circuits appers two times but
                     // one time is part of another term and only one time is a proper term.
-                    if (t1.contains(t2) && f.get(t1)>=f.get(t2)){//TODO throw error if f.get(t1)>f.get(t2)
+                    if (t1.contains(t2) && f.get(t1) >= f.get(t2)) {//TODO throw error if f.get(t1)>f.get(t2)
                         //.remove(t2);
+                        //Out.p("t1.contains(t2) && f.get(t1) >= f.get(t2)");
+                        //Out.p("t1 is "+t1+","+f.get(t1)+" times");
+                        //Out.p("t2 is "+t2+","+f.get(t2)+" times");
                         f.remove(t2);
-                    }
-                    else {//if (t1.contains(t2) && f.get(t1)>=f.get(t2))
-                        if (t1.contains(t2) && f.get(t1)<f.get(t2)) {
-                            f.replace(t2, f.get(t2)-f.get(t1));
+                    } else {//if (t1.contains(t2) && f.get(t1)>=f.get(t2))
+                        if (t1.contains(t2) && f.get(t1) < f.get(t2)) {
+                        //Out.p("t1.contains(t2) && f.get(t1) < f.get(t2)");
+                        //Out.p("t1 is "+t1+","+f.get(t1)+" times");
+                        //Out.p("t2 is "+t2+","+f.get(t2)+" times");
+                            
+                            f.replace(t2, f.get(t2) - f.get(t1));
                         }
                     }//else
-                    if (t2.contains(t1) && f.get(t2)>=f.get(t1)){//TODO throw error if f.get(t2)>f.get(t1)
+                    if (t2.contains(t1) && f.get(t2) >= f.get(t1)) {//TODO throw error if f.get(t2)>f.get(t1)
+                        //Out.p("t2.contains(t1) && f.get(t2) >= f.get(t1)");
+                        //Out.p("t1 is "+t1+","+f.get(t1)+" times");
+                        //Out.p("t2 is "+t2+","+f.get(t2)+" times");
                         f.remove(t1);
-                    }
-                      else {//if (t2.contains(t1) && f.get(t2)>=f.get(t1))
-                        if (t2.contains(t1) && f.get(t2)<f.get(t1)) {
-                            f.replace(t1, f.get(t1)-f.get(t2));
+                    } else {//if (t2.contains(t1) && f.get(t2)>=f.get(t1))
+                        if (t2.contains(t1) && f.get(t2) < f.get(t1)) {
+                        //Out.p("t2.contains(t1) && f.get(t2) >= f.get(t1)");
+                        //Out.p("t1 is "+t1+","+f.get(t1)+" times");
+                        //Out.p("t2 is "+t2+","+f.get(t2)+" times");
+                            f.replace(t1, f.get(t1) - f.get(t2));
                         }
                     }//else
-                    }// if (f.containsKey(t1) && f.containsKey(t2))
-                }//while (!rest.empty())
-       }
-      
+                }// if (f.containsKey(t1) && f.containsKey(t2))
+            }//while (!rest.empty())
+        }
+
         return f;
     }
-    
-    
+
     /**
      * Internal function which removes a term that is part of another term.
+     *
      * @param f An array term-&gt; hits of the term
      * @return A list without the non proper terms deleted.
      */
     protected ArrayList<String> removeInsideTerms(HashMap<String, Integer> f) {
         ArrayList<String> terms = new ArrayList<>();//the good
-       terms.addAll(removeInsideTermsAndCount(f).keySet());
-       
+        terms.addAll(removeInsideTermsAndCount(f).keySet());
+
         return terms;
     }
 }
