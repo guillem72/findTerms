@@ -55,6 +55,11 @@ public class termsAndRelated {
         termsAndRelated.related_boost = related_boost;
     }
       
+    /**
+     * 
+     * @param docs
+     * @return
+     */
     public HashMap <String, HashMap <String,Double>> findForEach(HashMap <String, String> docs){
         HashMap <String, HashMap <String,Double>> res=new HashMap <>();
         Set keys=docs.keySet();
@@ -68,6 +73,11 @@ public class termsAndRelated {
         return res;
     }  
     
+    /**
+     * Given a doc return all the terms and their related terms from the rdf file. 
+     * @param doc The text where the terms will be sought
+     * @return A list of terms and their weigth.
+     */
     public HashMap<String,Double> find(String doc){
         //  HashMap<String,Double> res1=new HashMap<String,Double>();
            HashMap<String,Integer> ptermsAndCount;

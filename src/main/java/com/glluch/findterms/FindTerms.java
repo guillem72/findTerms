@@ -16,7 +16,6 @@
  */
 package com.glluch.findterms;
 
-import com.glluch.utils.Out;
 import com.glluch.utils.StringsThings;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -48,7 +47,7 @@ public class FindTerms {
     public ArrayList<String> found(String doc0) {
         //System.out.println("FindTerms.found()");
         String doc = doc0.toLowerCase();
-        HashMap<String, Integer> hits = new HashMap<>();
+        TermsCount hits = new TermsCount();
         for (String candi0 : vocabulary) {
             String candi = candi0.toLowerCase();
             if (Utils.stringContains(doc, candi)) {
@@ -71,10 +70,10 @@ public class FindTerms {
      * @param doc0 The doc where the terms will be searched
      * @return A map made by the found terms and their occurences.
      */
-    public HashMap<String, Integer> foundAndCount(String doc0) {
+    public TermsCount foundAndCount(String doc0) {
         //System.out.println("FindTerms.found()");
         String doc = doc0.toLowerCase();
-        HashMap<String, Integer> hits = new HashMap<>();
+        TermsCount hits = new TermsCount();
         for (String candi0 : vocabulary) {
             String candi = candi0.toLowerCase();
             int matches = StringUtils.countMatches(doc, candi);
@@ -97,7 +96,7 @@ public class FindTerms {
      * @return a map term --&gt; num_occurences without the non proper terms
      * deleted.
      */
-    protected HashMap<String, Integer> removeInsideTermsAndCount(HashMap<String, Integer> f) {
+    protected HashMap<String, Integer> removeInsideTermsAndCount(TermsCount f) {
         
         Stack pila = new Stack();
 
@@ -163,7 +162,7 @@ public class FindTerms {
      * @param f An array term-&gt; hits of the term
      * @return A list without the non proper terms deleted.
      */
-    protected ArrayList<String> removeInsideTerms(HashMap<String, Integer> f) {
+    protected ArrayList<String> removeInsideTerms(TermsCount f) {
         ArrayList<String> terms = new ArrayList<>();//the good
         terms.addAll(removeInsideTermsAndCount(f).keySet());
 

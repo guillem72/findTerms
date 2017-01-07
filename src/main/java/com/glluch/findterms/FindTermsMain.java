@@ -16,12 +16,13 @@ package com.glluch.findterms;
  * along with this program.  If not, see http://www.gnu.org/licenses/.
  */
 import com.glluch.utils.Out;
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.HashMap;
-import org.apache.jena.rdf.model.Model;
-import org.apache.jena.rdf.model.Resource;
+import org.apache.commons.io.FileUtils;
 
 /**
  *
@@ -30,6 +31,7 @@ import org.apache.jena.rdf.model.Resource;
 public class FindTermsMain {
 
     /**
+     * Not implemented yet.
      * @param args the command line arguments
      * args0 the taxonomy
      * args1 the positions
@@ -38,10 +40,13 @@ public class FindTermsMain {
      *
      */
     public static void main(String[] args) throws FileNotFoundException, IOException {
+        String filename="resources/ecfAcronymsExpanded.txt";
         //gtest();
+        
         //related();
         //findAndCount();
-        findAll();
+        //findAll();
+        findAndCountFromFile(filename);
          
     }
     
@@ -96,10 +101,28 @@ public class FindTermsMain {
         FindTerms.vocabulary=Vocabulary.get();
         //System.out.println(Vocabulary.listTerms());
         String doc="Analog circuits and Analog circuits and Analog "
-                + "integrated circuits and Analog circuits and Analog processing circuits";
+                + "integrated circuits and Analog circuits and Analog processing circuits,"
+                + "maybe circuits and, of course analog ";
         res=finder.foundAndCount(doc);
         System.out.println(res);
     }
+
+    private static void findAndCountFromFile(String filename) throws IOException {
+        HashMap<String, Integer> res;
+        String targetFile="resources/ieeeTermsInECF.csv";
+        //Vocabulary.filename = "resources/Terms.owl"; //optional
+        FindTerms finder=new FindTerms();
+        FindTerms.vocabulary=Vocabulary.get();
+        
+        String docText = FileUtils.readFileToString(new File(filename));
+        res=finder.foundAndCount(docText);
+        String resCsv=Out.csv(res);
+        FileUtils.writeStringToFile(new File(targetFile), resCsv);
+        
+        
+    }
+    
+    
     
     
 }

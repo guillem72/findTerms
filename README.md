@@ -1,5 +1,6 @@
 # findTerms
-Program in Java that find terms in a text in case insensitive mode.
+A Gazetteer program in Java that find terms form IEEE taxonomy in a text. Due the IEEE taxonomy
+license, you need to build your own rdf version to use this program.
 
 ## Usage
 
